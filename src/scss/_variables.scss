@@ -1,0 +1,29 @@
+$header-height: 75px;
+
+$enable-rounded: false!default;
+
+$primary: #B77A20;
+$primary-dark: #A96A0B;
+$primary-light: #CE9034;
+
+$dark: #383838;
+$dark-dark: #2E2D2D;
+$dark-light: #515151;
+
+$light: #D9D5D0;
+$light-dark: #C9C2BB;
+$light-light: #ECECEC;
+
+$theme-colors: (
+    "primary": $primary,
+    "primary-dark": $primary-dark,
+    "primary-light": $primary-light,
+
+    "dark": $dark,
+    "dark-dark": $dark-dark,
+    "dark-light": $dark-light,
+
+    "light": $light,
+    "light-dark": $light-dark,
+    "light-light": $light-light,
+);

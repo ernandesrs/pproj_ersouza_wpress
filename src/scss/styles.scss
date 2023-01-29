@@ -1,0 +1,12 @@
+// font-family: 'Nunito', sans-serif;
+// font-family: 'PT Mono', monospace;
+// font-family: 'PT Sans', sans-serif;
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@400;500;600;700&family=PT+Mono&family=PT+Sans:wght@400;700&display=swap');
+
+@import "./variables";
+
+@import "../../node_modules/bootstrap/scss/bootstrap.scss";
+
+@import "./custom";
+
+@import "./responsive";
