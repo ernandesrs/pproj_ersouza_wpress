@@ -1,7 +1,10 @@
 <?php
 
-const PAGE_HOME_ID = 7;
-const PAGE_PRIVACY_TERMS_ID = 18;
+// const PAGE_HOME_ID = 7;
+const PAGE_HOME_ID = 6;
+
+// const PAGE_PRIVACY_TERMS_ID = 18;
+const PAGE_PRIVACY_TERMS_ID = 8;
 
 // hability menu
 add_theme_support("menus");
