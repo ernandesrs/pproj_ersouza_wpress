@@ -47,8 +47,10 @@ require __DIR__ . "/app/config.php";
 
 
     <link rel="stylesheet" href="<?= get_stylesheet_directory_uri() ?>/style.css">
+    <!-- <link rel="stylesheet"
+        href="<?= get_stylesheet_directory_uri() ?>/assets/css/icons.css"> -->
     <link rel="stylesheet"
-        href="<?= get_stylesheet_directory_uri() ?>/assets/css/icons.css">
+        href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.3/font/bootstrap-icons.css">
     <link rel="stylesheet"
         href="<?= get_stylesheet_directory_uri() ?>/assets/css/styles.css">
     <link rel="shortcut icon" href="<?= get_site_icon_url() ?>" type="image/x-icon">
