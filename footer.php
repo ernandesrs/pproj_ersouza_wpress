@@ -41,7 +41,7 @@
 </section>
 <!-- /cookie alert -->
 
-<script src="<?= get_site_asset_url("/js/scripts.js") ?>"></script>
+<script src="<?= get_stylesheet_directory_uri() ?>/js/scripts.js"></script>
 <script>
     AOS.init();
 </script>
