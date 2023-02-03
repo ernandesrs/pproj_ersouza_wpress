@@ -41,6 +41,8 @@
 </section>
 <!-- /cookie alert -->
 
+<?= wp_footer(); ?>
+
 <script src="<?= get_stylesheet_directory_uri() ?>/assets/js/scripts.js"></script>
 <script>
     AOS.init();
